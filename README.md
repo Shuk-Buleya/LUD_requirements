@@ -77,7 +77,7 @@ The system enables officers to process applications, manage physical verificatio
 
 ### 2.5 Card Printing and Tracking
 
-* **FR5.1**: IT shall update the card status (Printed, In Delivered).
+* **FR5.1**: IT shall update the card status (Printed, Delivered).
 * **FR5.2**: Station Officers shall confirm card receipt (card status shall be updated to ready).
 
 ### 2.6 Card Distribution
@@ -126,17 +126,13 @@ The system enables officers to process applications, manage physical verificatio
 ---
 
 ## 4. Appendix
-<--- --->
-### 4.1 Sample Forms to Be Digitized
 
+### 4.1 Sample Forms to Be Digitized
 * RFA/TOLL/01.15 – LUD Application Form
 * RFA/TOLL/01.18 – LUD Card Transfer Form
 * RFA/TOLL/01.19 – LUD Card Distribution Register
 
-### 4.2 Reference Document
 
-* LUD Process Flow Chart (RFA/TOLL/01.14)
 
 ---
 
-*End of Document*
