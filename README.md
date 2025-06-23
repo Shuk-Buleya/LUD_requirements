@@ -11,24 +11,16 @@
 
 ### 1.1 Purpose
 
-The purpose of this document is to outline the software requirements for automating the Local User Discount (LUD) process currently handled manually by the Roads Fund Administration (RFA). The goal is to streamline form submissions, document verification, approval processes, card printing and distribution using a web-based information system.
+The purpose of this document is to outline the software requirements for automating the Local User Discount (LUD) process currently handled manually. The goal is to streamline form submissions, document verification, approval processes, card printing and distribution using a web-based information system.
 
 ### 1.2 Scope
 
-The system will allow local users to apply for LUD through two pathways:
+The system will allow local users to apply for LUD through two pathways (this is just a suggestion, but the second option can be left out ofr now):
 
-* **Option 1**: Traditional paper-based submission for individuals who are not tech-savvy or literate, handled by Office Assistants who digitize the documents.
+* **Option 1**: Traditional paper-based submission for individuals who are not tech-savvy or literate, handled by Office Assistants who digitize the documents i.e scanning and uploading the DOCs.
 * **Option 2**: Full online submission by users with internet access and technical literacy.
 
-The system enables officers to process applications, manage physical verification, approve eligible users, and facilitate the printing and issuing of LUD cards.
-
-### 1.3 Intended Audience
-
-* Software developers
-* System administrators
-* Tolling department and IT staff
-
-### 1.4 Acronyms
+### 1.3 Acronyms
 
 * **LUD**: Local User Discount
 * **RFA**: Roads Fund Administration
