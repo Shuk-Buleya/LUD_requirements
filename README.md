@@ -4,11 +4,6 @@
 
 **Project Title**: Local User Discount (LUD) Automation System
 
-**Version**       : 1.0
-
-**Date**: 19th June 2025
-
-**Prepared by**: Shukuran Buleya [sbuleya@rfmw.com]
 
 ---
 
