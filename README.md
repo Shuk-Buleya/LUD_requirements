@@ -112,13 +112,6 @@ The system will allow local users to apply for LUD through two pathways (this is
 
 ---
 
-## 4. Appendix
-
-### 4.1 Sample Forms to Be Digitized
-* RFA/TOLL/01.15 – LUD Application Form
-* RFA/TOLL/01.18 – LUD Card Transfer Form
-* RFA/TOLL/01.19 – LUD Card Distribution Register
-
 
 
 ---
