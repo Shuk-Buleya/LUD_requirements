@@ -87,8 +87,6 @@ The system will allow local users to apply for LUD through two pathways (this is
 
 * **FR9.1**: The system shall be mobile responsive.
 * **FR9.2**: The system shall store documents securely with restricted access.
-* **FR9.3**: (Optional) Integrate with national ID or toll systems for validation.
-
 ---
 
 ## 3. Non-Functional Requirements
