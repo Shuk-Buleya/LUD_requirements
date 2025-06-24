@@ -102,7 +102,7 @@ The system will allow local users to apply for LUD through two pathways (this is
 
 ### 3.3 Usability Requirements
 
-* The system shall have a user-friendly interface with form validation and guidance prompts.
+* The system shall have a user-friendly interface with form validation
 
 ### 3.4 Availability
 
