@@ -35,58 +35,58 @@ The system will allow local users to apply for LUD through two pathways (this is
 
 #### Option 1: Paper-based Submission for Non-tech Users
 
-* **FR1.1.1**: Office Assistants shall provide physical LUD forms to users who prefer manual submission.
-* **FR1.1.2**: Local users shall fill in the paper forms and attach the required documents.
-* **FR1.1.3**: Office Assistants shall scan and upload the completed application form and attachments into the system.
-* **FR1.1.4**: The system shall record the name of the user, date of submission and scanned document files.
+* **2.1.1**: Office Assistants shall provide physical LUD forms to users who prefer manual submission.
+* **2.1.2**: Local users shall fill in the paper forms and attach the required documents.
+* **2.1.3**: Office Assistants shall scan and upload the completed application form and attachments into the system.
+* **2.1.4**: The system shall record the name of the user, date of submission and scanned document files.
 
 #### Option 2: Digital Submission for Tech-savvy Users
 
-* **FR1.2.1**: Users shall fill and submit LUD application forms online.
-* **FR1.2.2**: The system shall allow uploading of supporting documents (village head letter, bluebook, utility bill).
-* **FR1.2.3**: Users shall be able to track the status of their applications.
+* **2.1.5**: Users shall fill and submit LUD application forms online.
+* **2.1.6**: The system shall allow uploading of supporting documents (village head letter, bluebook, utility bill).
+* **2.1.7**: Users shall be able to track the status of their applications.
 
 
 ### 2.2 Eligibility Evaluation
 
-* **FR2.1**: Station Officers shall be able to view, verify, approve or reject applications with comments.
+* **2.2.1**: Station Officers shall be able to view, verify, approve or reject applications with comments.
 
 ### 2.3 Physical Verification Coordination
 
-* **FR3.1**: Station Officers shall assign Toll Supervisors to applications.
-* **FR3.2**: Toll Supervisors shall submit verification reports.
-* **FR3.3**: Anomalies shall be flagged and sent for re-review.
+* **2.3.1**: Station Officers shall assign Toll Supervisors to applications.
+* **2.3.2**: Toll Supervisors shall submit verification reports.
+* **2.3.3**: Anomalies shall be flagged and sent for re-review.
 
 ### 2.4 Director Approval and IT Processing
 
-* **FR4.1**: Tolling Director shall approve or reject verified applications.
-* **FR4.2**: The system shall send card print requests to the IT department.
+* **2.4.1**: Tolling Director shall approve or reject verified applications.
+* **2.4.2**: The system shall send card print requests to the IT department.
 
 ### 2.5 Card Printing and Tracking
 
-* **FR5.1**: IT shall update the card status (Printed, Delivered).
-* **FR5.2**: Station Officers shall confirm card receipt (card status shall be updated to ready).
+* **2.5.1**: IT shall update the card status (Printed, Delivered).
+* **2.5.2**: Station Officers shall confirm card receipt (card status shall be updated to ready).
 
 ### 2.6 Card Distribution
 
-* **FR6.1**: Office Assistants shall distribute cards and mark collection in a digital register.
-* **FR6.2**: Local Users shall digitally sign upon collection.
-* **FR6.3**: Users shall be notified via SMS/email when cards are ready.
+* **2.6.1**: Office Assistants shall distribute cards and mark collection in a digital register.
+* **2.6.2**: Local Users shall digitally sign upon collection.
+* **2.6.3**: Users shall be notified via SMS/email when cards are ready.
 
 ### 2.7 Reporting and Auditing
 
-* **FR7.1**: The system shall generate reports on application status, approvals, distributions, etc.
-* **FR7.2**: The system shall maintain audit logs of all user actions.
+* **2.7.1**: The system shall generate reports on application status, approvals, distributions, etc.
+* **2.7.2**: The system shall maintain audit logs of all user actions.
 
 ### 2.8 Access Control
 
-* **FR8.1**: Role-based access for different users (Local User, OA, SO, Supervisor, Director, IT, Admin).
-* **FR8.2**: Each role shall access only authorized sections and data.
+* **2.8.1**: Role-based access for different users (Local User, OA, SO, Supervisor, Director, IT, Admin).
+* **2.8.2**: Each role shall access only authorized sections and data.
 
 ### 2.9 System Requirements
 
-* **FR9.1**: The system shall be mobile responsive.
-* **FR9.2**: The system shall store documents securely with restricted access.
+* **2.9.1**: The system shall be mobile responsive.
+* **2.9.2**: The system shall store documents securely with restricted access.
 ---
 
 ## 3. Non-Functional Requirements
