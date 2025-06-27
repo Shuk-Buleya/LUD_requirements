@@ -54,7 +54,7 @@ The system will allow local users to apply for LUD through two pathways (this is
 ### 2.3 Physical Verification Coordination
 
 * **2.3.1**: Station Officers shall assign Toll Supervisors to applications.
-* **2.3.2**: Toll Supervisors shall submit verification reports.
+* **2.3.2**: Toll Supervisors verify if the findings are similar to what is in the application.
 * **2.3.3**: Anomalies shall be flagged and sent for re-review.
 
 ### 2.4 Director Approval and IT Processing
@@ -70,8 +70,7 @@ The system will allow local users to apply for LUD through two pathways (this is
 ### 2.6 Card Distribution
 
 * **2.6.1**: Office Assistants shall distribute cards and mark collection in a digital register.
-* **2.6.2**: Local Users shall digitally sign upon collection.
-* **2.6.3**: Users shall be notified via SMS/email when cards are ready.
+* **2.6.2**: Users shall be notified via SMS/email when cards are ready.
 
 ### 2.7 Reporting and Auditing
 
