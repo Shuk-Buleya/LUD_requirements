@@ -38,7 +38,7 @@ The system will allow local users to apply for LUD through two pathways (this is
 * **2.1.1**: Office Assistants shall provide physical LUD forms to users who prefer manual submission.
 * **2.1.2**: Local users shall fill in the paper forms and attach the required documents.
 * **2.1.3**: Office Assistants shall scan and upload the completed application form and attachments into the system.
-* **2.1.4**: The system shall record the name of the user, date of submission and scanned document files.
+* **2.1.4**: The system shall record the name of the user, date of submission, contact details, License plate number, car(s) model, color and scanned document files.
 
 #### Option 2: Digital Submission for Tech-savvy Users
 
